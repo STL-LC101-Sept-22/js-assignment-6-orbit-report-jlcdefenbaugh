@@ -12,3 +12,7 @@ button {
 	font-size: 18px;
 	cursor: pointer;
 }
+
+#search-box {
+	width: 225px;
+}
